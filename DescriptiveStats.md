@@ -54,12 +54,12 @@ Mac Excel 2016
 
 ### Analysis Toolpak on Windows
 
-[Link to Toolpak info](http://www.excel-easy.com/data-analysis/analysis-toolpak.html
-)
+* Fichier > Informations > options > complements > analysis Toolpak > atteindre > analysis tookpak, euro currency tools
+
+[Link to Toolpak info](http://www.excel-easy.com/data-analysis/analysis-toolpak.html)
 
 Video: [Adding the analysis toolpak into your Excel on Windows](https://youtu.be/ZiwVY9DZ6RQ)
 
-Go to Fichier, "Options", "Complements", and click button "Atteindre..."
 
 ### Add-In on Mac
 
