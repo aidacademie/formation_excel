@@ -37,6 +37,14 @@ What kind of data is in the column?
 * If it’s strings/text, label missing values as “unknown” or “missing” or "NA" if you want. If the text is “category” or “label” data, try to be consistent so you can count these or group them.
 * Try not to mix types... Excel won't like this.
 
+### Descriptive Statistics in Windows
+
+This will only work on numeric data.  You must be sure to remove all non-numeric data from the column before you can use the feature.
+
+In the Facebook data column for audience size, you must remove rows that have "-" or a word in them.  (Hint: Use filters and sorting to find them.)
+
+Video: [Removing non-numeric rows](https://youtu.be/8WdZciRZkuE)
+
 ## Step 2. Add-ins that help profile your data
 
 * Analysis Toolpak add-in on Windows Excel and
@@ -53,15 +61,7 @@ Video: [Adding the analysis toolpak into your Excel on Windows](https://youtu.be
 
 Go to Fichier, "Options", "Complements", and click button "Atteindre..."
 
-## Descriptive Statistics in Windows
-
-This will only work on numeric data.  You must be sure to remove all non-numeric data from the column before you can use the feature.
-
-In the Facebook data column for audience size, you must remove rows that have "-" or a word in them.  (Hint: Use filters and sorting to find them.)
-
-Video: [Removing non-numeric rows](https://youtu.be/8WdZciRZkuE)
-
-## Add-In on Mac
+### Add-In on Mac
 
 StatPus:
 
