@@ -49,7 +49,7 @@ For Mac, it should show the “Builder” open. The command to open it is on top
 <img src="images/pivot ar1.png" width="600" height="439">   
 <img src="images/pivot 2.png" width="374" height="416">   
 
-If you have items in your builder, drag them “out” of the dialog to empty it (see Mac video). Goal is to start from empty:
+If you have items in your builder, drag them “out” of the dialog to empty it. Goal is to start from empty:
 
 <img src="images/pivot ar 2.png" width="600" height="445">   
 <img src="images/pivot 3.png" width="852" height="417">   
@@ -66,59 +66,51 @@ If you have items in your builder, drag them “out” of the dialog to empty it
 <img src="images/pivot 5.png" width="585" height="490">
 
 7. Labeling 
+* Group 1 > 0-10
+* Group 2 > 11-15
+* Group 3 > 16-20
 
 <img src="images/pivot 6.png" width="816" height="170">
 
-Result 
+See the result below
 
 <img src="images/pivot 7.png" width="820" height="170">
 
-### You can change the sort order.
+### Changing sort order 
 
-On Windows, right click inside a cell in Values. Choose sort (Trier).
-On Mac, click the Sort button in the Data tab while your mouse is in the column.
+* On Windows, right click inside a cell in Values. Choose sort (Trier).
+* On Mac, click the Sort button in the Data tab while your mouse is in the column.
 
-###### Show the top primary crimes in order, descending.
-
+###### Example : Data set (chi2.csv)
  Let’s do that with chi2.csv, our Chicago dataset.
 
-*Mac UI, result:*   
-<img src="week2_pic/10.png" width="250" height="551">   
+* Show the top primary crimes in order, descending.
 
-### Filter Results to Top 10... on Windows:
+<img src="images/pivot ar5.png" width="552" height="1216">   
+
+### Filter Results to "Top 10" on Windows:
 Right click on first column item, and you’ll see Filter > Top 10...
 (or filter by other options!)  
 Get the top 10 crime types.
 
-Video Demo: [Windows Excel Top 10 Pivot Results By Value](https://youtu.be/CSHWmbSH8rg)
+<img src="images/pivot ar6.png" width="903" height="865">   
 
-<img src="week2_pic/11.png" width="400" height="556">   
 
-### Top 10 on Mac:  
-Pick Menu on Row Labels, Choose the menu beside “By Value”...
-
-<img src="week2_pic/12.png">   
-
-Helpful link: https://www.techonthenet.com/excel/pivottbls/top10_2011.php
-
-###### Exercise 1- Do the same operations with Streets now (in chi2.csv, the data we cleaned last week). (Streets, not block!)  
-
-*What is the street with the most crimes? What are the top 10?*
-
-### Using Columns Too
+###### Exercise 1- Do the same operations with Streets now (chi2.csv). (Streets, not block!)  
 
 *What if we wanted to find out which streets had the most arrests?*
 
-Now Add “Arrest” to columns in your pivot table builder UI:
+Now Add “Arrest” to columns in your pivot table builder:
 
-<img src="week2_pic/13.png">
+<img src="images/pivot ar7.png">
 
 Now what about what kind of crimes had the most arrests?
 
-Make Arrests your columns, and the primary type the rows. Sort by Arrests, True.
+Make Arrests your columns, and the primary type the rows. 
+*Sort by Arrests, True.
 
 *Result:*
-<img src="week2_pic/14.png" width="300" height="337">   
+<img src="images/pivot ar8.png">   
 
 
 ### Filters on Pivot Tables
