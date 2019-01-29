@@ -1,4 +1,4 @@
-## What is Tidy/Long Data?
+# What is Tidy/Long Data?
 “Long data” is generally used to create a pivot table. Long data is that the number of column is more than the number of raw. Wide data is sometimes used (depends on the operation).
 
 
@@ -18,7 +18,7 @@ Origin of the term “Tidy Data” is probably Hadley Wickham: [Tidy Data Paper]
 
 *from excelcampus article above.*
 
-## Homework Problem
+## exercise
 
 You will work through tidying the data in the file "survey_data_spreadsheet_messy.xlsx."  Follow the principles in these notes on formatting data in a tidy way:
 
