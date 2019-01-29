@@ -14,7 +14,7 @@ Origin of the term “Tidy Data” is probably Hadley Wickham: [Tidy Data Paper]
 * Setting up source data for pivots in Excel: https:// www.excelcampus.com/modeling/structure-pivot-table-source-data/
 
 
-<img src="assets/TidyData-fd1b5.png">
+<img src="images/pivot ar20.png">
 
 *from excelcampus article above.*
 
@@ -44,7 +44,7 @@ Sometimes you are given data that is not in tidy format and you have to "fix" it
 
 Look at Paris_Rainfall.csv:
 
-<img src="assets/TidyData-db540.png">
+<img src="images/pivot ar21.png">
 
 What would a tidy version of this look like?  We want a long table, with 3 columns: Year, Month, Value.
 
