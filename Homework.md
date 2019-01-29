@@ -1,1 +1,16 @@
 
+# Homework 
+
+## Exercise 1 : Pivot table (Data set : Food Sales)
+# Create a pivot table to answer :
+
+1> Make a pivot table to visualise sales in quantity by region and category
+* What is  the most sold item in total?
+* What is the most sold item in the West?
+
+2> Make a pivot table to visualise total price by city and category
+* Which city does spend money the most?
+* What is the total price of the most sold item?
+
+3> Make a pivot table to visualise monthly cookie sales in price in the East by product 
+* How much did chocolate chips sold in July?
