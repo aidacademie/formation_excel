@@ -52,12 +52,14 @@ What would a tidy version of this look like?  We want a long table, with 3 colum
 #### Tool 2. Windows Only Options
 * [Tableau Plugin-windows only](http://kb.tableau.com/articles/knowledgebase/addin-reshaping-data-excel?lang=en-us)
 * [PowerQuery add-on for Excel-Windows only](https://www.microsoft.com/en-us/download/details.aspx?id=39379)
-* Pivot Table Wizard - Windows (Seems to be disabled in latest version?)
+* Pivot Table Wizard - Windows
 
 #### Tool 3. Using VBA Code (both platforms)
 
 Make sure your Developer tab is in the ribbon.  Use Preferences or Options to turn it on if not.
 The macro code you need is in the data file "ReversePivotTable_macro.vba.docx" in data set folder
+
+### Exercise unpivoting "Paris_Rainfall.csv" 
 
 How to :
 
