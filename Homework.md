@@ -20,3 +20,13 @@
 1> Make a pivot table to visualise sales in unit by region and item
 
 2> Create a bar chart from the pivot table
+
+## Exercise 3 : Descriptive Statistics
+
+21, 35, 46, 46, 50, 63, 67, 77, 88, 92 
+
+1> Calculate Mean
+
+2> Calculate Median
+
+3> Calculate Mode
