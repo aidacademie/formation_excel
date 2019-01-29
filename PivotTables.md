@@ -29,8 +29,7 @@ Video Demos:
 * [Mac Excel English Pivot, Count Values](https://youtu.be/fxP81RaPBFQ)
 * [Windows Excel French Pivot](https://youtu.be/fsre1PJYDM4)
 
-Step 1. Select your data. Data set: : FT workers NorthCentral US 1999
-	Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
+Step 1. Select your data.(Data set: : FT workers NorthCentral US 1999). Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
 Step 2. *On Windows,* check the “Insert” Ribbon Tab.
 	*On Mac,* the “Data” Ribbon Tab.  
 Step 3. Also look at the menus (check Insert and Data menus).  
