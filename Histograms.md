@@ -10,7 +10,7 @@ Fall represents the number of pigeon.
 * What is the total number of pigeon in the table?
 * How many pigeon are between 15 and 17 inches?
 
-<img src="images/pivot ar22.png">
+<img src="images/pivot ar23.png">
 
 [Link to Wikipedia](https://en.wikipedia.org/wiki/Histogram)
 
