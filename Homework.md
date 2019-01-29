@@ -2,7 +2,7 @@
 # Homework 
 
 ## Exercise 1 : Pivot table (Data set : Food Sales)
-# Create a pivot table to answer :
+### Create a pivot table to answer :
 
 1> Make a pivot table to visualise sales in quantity by region and category
 * What is  the most sold item in total?
