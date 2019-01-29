@@ -38,3 +38,4 @@ Histograms are the numeric version of counting categoric (text) values.
 
 <img src="assets/Histograms-bec92.png">
 
+ 
