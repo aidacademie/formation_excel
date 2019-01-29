@@ -81,22 +81,22 @@ See the result below
 * On Windows, right click inside a cell in Values. Choose sort (Trier).
 * On Mac, click the Sort button in the Data tab while your mouse is in the column.
 
-###### Example : Data set (chi2.csv)
+### Example : Data set (chi2.csv)
  Let’s do that with chi2.csv, our Chicago dataset.
 
 * Show the top primary crimes in order, descending.
 
-<img src="images/pivot ar5.png" width="552" height="1216">   
+<img src="images/pivot ar5.png" width="276" height="608">   
 
 ### Filter Results to "Top 10" on Windows:
 Right click on first column item, and you’ll see Filter > Top 10...
 (or filter by other options!)  
 Get the top 10 crime types.
 
-<img src="images/pivot ar6.png" width="903" height="865">   
+<img src="images/pivot ar6.png" width="452" height="433">   
 
 
-###### Exercise 1- Do the same operations with Streets now (chi2.csv). (Streets, not block!)  
+### Exercise 1- Do the same operations with Streets now (chi2.csv). (Streets, not block!)  
 
 *What if we wanted to find out which streets had the most arrests?*
 
@@ -107,7 +107,7 @@ Now Add “Arrest” to columns in your pivot table builder:
 Now what about what kind of crimes had the most arrests?
 
 Make Arrests your columns, and the primary type the rows. 
-*Sort by Arrests, True.
+* Sort by Arrests, True.
 
 *Result:*
 <img src="images/pivot ar8.png">   
