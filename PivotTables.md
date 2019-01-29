@@ -55,17 +55,17 @@ If you have items in your builder, drag them “out” of the dialog to empty it
 <img src="images/pivot 3.png" width="852" height="417">   
 
 
-5. How to change value > Average:
+Step 5. How to change value > Average:
 
 <img src="images/pivot 4.png" width="600" height="559">   
 
 
-6. Grouping : let's group the education years by 5
+Step 6. Grouping : let's group the education years by 5
 
 
 <img src="images/pivot 5.png" width="585" height="490">
 
-7. Labeling 
+Step 7. Labeling 
 * Group 1 > 0-10
 * Group 2 > 11-15
 * Group 3 > 16-20
@@ -119,10 +119,10 @@ If you want to dig into a particular type of data, you can make a filter.
 Drag “Primary Type” into the filters area — it will appear above the pivot results —
 
 
-<img src="week2_pic/15.png" width="282" height="450">   
+<img src="images/pivot ar9.png" width="282" height="450">   
 
 and set it to Narcotics.   
-<img src="week2_pic/16.png" width="200" height="93">
+<img src="images/pivot ar10.png" width="200" height="93">
 
 [Video of simple filtering on pivot table](https://youtu.be/l1nc62R-68k)
 
@@ -131,20 +131,13 @@ and set it to Narcotics.
 
 If you want to learn more about each ROW (or column) of data, you can add another variable to the same group.       
 Try adding Location Description to the Rows under “Street”:  
-<img src="week2_pic/17.png" width="400" height="618">   
+<img src="images/pivot ar11.png" width="400" height="618">   
 
 **Feel free to change the filter!**
 
-<img src="week2_pic/18.png" width="400" height="307">   
+<img src="images/pivot ar12.png" width="400" height="307">   
 
- Now try...
-
-<img src="week2_pic/19.png" width="400" height="436">   
-
- What’s interesting there?
-
-[Video demo of nesting rows and sorting](https://youtu.be/8a3Ny3Pi93w)
-
+ 
 
 ## Pivots with Quantitative Data & Groups
 
