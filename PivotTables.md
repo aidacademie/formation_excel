@@ -36,9 +36,10 @@ Step 2. *On Windows,* check the “Insert” Ribbon Tab.
 Step 3. Also look at the menus (check Insert and Data menus).  
 
 You should get the dialog:  
-<img src="pivot 1.png" width="600" height="461">   
+<img src="images/pivot 1.png" width="600" height="461">   
 
  *Note: Every column needs a label for this to work!*
+
 
 Step 4. Click OK (after making sure it shows your selection.)  
 
@@ -46,32 +47,32 @@ On Mac, it makes a “default” pivot table.   On Windows, you need to select t
 
 For Mac, it should show the “Builder” open. The command to open it is on top on the ribbon (in case you lose it/close it).
 
-<img src="pivot ar1.png" width="600" height="439">   
-<img src="pivot 2.png" width="600" height="439">   
+<img src="images/pivot ar1.png" width="600" height="439">   
+<img src="images/pivot 2.png" width="600" height="439">   
 
 If you have items in your builder, drag them “out” of the dialog to empty it (see Mac video). Goal is to start from empty:
 
-<img src="pivot ar 2.png" width="600" height="445">   
-<img src="pivot 3.png" width="600" height="445">   
+<img src="images/pivot ar 2.png" width="600" height="445">   
+<img src="images/pivot 3.png" width="600" height="445">   
 
 
 5. How to change value > Average:
 
-<img src="pivot 4.png" width="600" height="559">   
+<img src="images/pivot 4.png" width="600" height="559">   
 
 
 6. Grouping : let's group the education years by 5
 
 
-<img src="pivot 5.png" width="585" height="490">
+<img src="images/pivot 5.png" width="585" height="490">
 
 7. Labeling 
 
-<img src="pivot 6.png" width="816" height="170">
+<img src="images/pivot 6.png" width="816" height="170">
 
 Result 
 
-<img src="pivot 7.png" width="820" height="170">
+<img src="images/pivot 7.png" width="820" height="170">
 
 ### You can change the sort order.
 
