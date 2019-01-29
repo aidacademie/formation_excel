@@ -1,7 +1,7 @@
 ## What is pivot table ?
 Summerizing selected data from raw data 
 
-** What are the four fields of pivot table?
+* What are the four fields of pivot table?
 fields:  report filter / column labels / row labels / values
 we can sort the data by those field.
 
