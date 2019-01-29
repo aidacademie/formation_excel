@@ -29,7 +29,8 @@ Video Demos:
 * [Mac Excel English Pivot, Count Values](https://youtu.be/fxP81RaPBFQ)
 * [Windows Excel French Pivot](https://youtu.be/fsre1PJYDM4)
 
-Step 1. Select your data. Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
+Step 1. Select your data. Data set: : FT workers NorthCentral US 1999
+	Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
 Step 2. *On Windows,* check the “Insert” Ribbon Tab.
 	*On Mac,* the “Data” Ribbon Tab.  
 Step 3. Also look at the menus (check Insert and Data menus).  
@@ -45,37 +46,37 @@ On Mac, it makes a “default” pivot table.   On Windows, you need to select t
 
 For Mac, it should show the “Builder” open. The command to open it is on top on the ribbon (in case you lose it/close it).
 
-<img src="week2_pic/4.png" width="600" height="439">   
+<img src="pivot ar1.png" width="600" height="439">   
+<img src="pivot 2.png" width="600" height="439">   
 
 If you have items in your builder, drag them “out” of the dialog to empty it (see Mac video). Goal is to start from empty:
 
-<img src="week2_pic/5.png" width="600" height="445">   
+<img src="pivot ar 2.png" width="600" height="445">   
+<img src="pivot 3.png" width="600" height="445">   
 
-The parts of the builder dialog:
 
-<img src="week2_pic/6.png" width="400" height="415">   
+5. How to change value > Average:
 
-5. Do this: Drag “Primary Type” into both Rows and Values:
+<img src="pivot 4.png" width="600" height="559">   
 
-<img src="week2_pic/7.png" width="600" height="559">   
 
-By default, it produces a Count of each Primary Value.  
-And the row labels are alphabetic.  
+6. Grouping : let's group the education years by 5
 
-**A quick pivot can reveal a need to clean... Keep an eye on the results you see!**
 
-This is another data set: *Hunting Injury Data – VictimACTIVITY (Victim Activity) by Count of WOUNDs*  
+<img src="pivot 5.png" width="600" height="676">
 
-<img src="week2_pic/8.png" width="600" height="676">
+7. Labeling 
 
-(How would you clean that data?  You could edit the text so it's consistent in a copy of the raw data! Then the counts will be more accurate.)
+<img src="pivot 6.png" width="600" height="676">
+
+Result 
+
+<img src="pivot 7.png" width="600" height="676">
 
 ### You can change the sort order.
 
 On Windows, right click inside a cell in Values. Choose sort (Trier).
 On Mac, click the Sort button in the Data tab while your mouse is in the column.
-
-(The videos above show this too.)
 
 ###### Show the top primary crimes in order, descending.
 
