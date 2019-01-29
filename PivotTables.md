@@ -63,15 +63,15 @@ If you have items in your builder, drag them “out” of the dialog to empty it
 6. Grouping : let's group the education years by 5
 
 
-<img src="pivot 5.png" width="600" height="676">
+<img src="pivot 5.png" width="820" height="170">
 
 7. Labeling 
 
-<img src="pivot 6.png" width="600" height="676">
+<img src="pivot 6.png" width="816" height="170">
 
 Result 
 
-<img src="pivot 7.png" width="600" height="676">
+<img src="pivot 7.png" width="820" height="170">
 
 ### You can change the sort order.
 
