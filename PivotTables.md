@@ -35,7 +35,7 @@ Step 2. *On Windows,* check the “Insert” Ribbon Tab.
 Step 3. Also look at the menus (check Insert and Data menus).  
 
 You should get the dialog:  
-<img src="week2_pic/3.png" width="600" height="461">   
+<img src="pivot 1.png" width="600" height="461">   
 
  *Note: Every column needs a label for this to work!*
 
