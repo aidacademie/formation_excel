@@ -88,7 +88,9 @@ Add as many columns as you want to analyse (select on the left, click the arrow 
 
 Choose to include the histogram (option at the bottom).  It will computer results in a new spreadsheet for you.
 
-Example (red highlight is mine, indicates items of special interest).
+
+
+## The result example 
 
 <img src="images/pivot ar19.png">
 
