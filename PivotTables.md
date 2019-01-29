@@ -48,7 +48,7 @@ On Mac, it makes a “default” pivot table.   On Windows, you need to select t
 For Mac, it should show the “Builder” open. The command to open it is on top on the ribbon (in case you lose it/close it).
 
 <img src="images/pivot ar1.png" width="600" height="439">   
-<img src="images/pivot 2.png" width="600" height="439">   
+<img src="images/pivot 2.png" width="374" height="416">   
 
 If you have items in your builder, drag them “out” of the dialog to empty it (see Mac video). Goal is to start from empty:
 
