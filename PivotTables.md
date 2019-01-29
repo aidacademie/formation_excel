@@ -6,13 +6,6 @@ Summerizing selected data from raw data
 fields:  report filter / column labels / row labels / values
 we can sort the data by those field.
 
-## Goals
-  * Making a pivot table with rows
-  * sorting
-  * Columns and Rows
-  * calculations other than count (ex. avg)
-  * groupings
-
 ### Pivot Tables like Tall, Raw Data   
 
  Pivot Input data is as on the right...
