@@ -66,7 +66,7 @@ Step 1 : VBA setting
 * Micro Security in Developer tab>Enable all macros
 
 Step 2 : Unpivoting
-* Visual Basic>Sheet 1>Input codes (using the word file : Macro Reserve Pivot Table)>Macro in Developer tab>select a cell to execute the result>save the result in the new sheet
+* Visual Basic>Sheet 1>Input codes (using the word file :"ReversePivotTable_macro.vba.docx")>Macro in Developer tab>select a cell to execute the result>save the result in the new sheet
 
 Demos:
 * [Video of Running the Macro on Mac Excel](https://youtu.be/dpnIwhmmbLA)
