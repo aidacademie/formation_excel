@@ -38,11 +38,9 @@ Your goal is a single table for all the data.
  >
  > cells = data (the values of the variables in the column names
 
-## Unpivoting Pivoted Table Data
+## Unpivoting Pivoted Table Data (Dataset : Paris_Rainfall.csv)
 
 Sometimes you are given data that is not in tidy format and you have to "fix" it.  There are some tools that will help you unpivot data, but it can be tough.
-
-Look at Paris_Rainfall.csv:
 
 <img src="images/pivot ar21.png">
 
