@@ -2,7 +2,13 @@
 
 Histogram is a graphical representation of data that comprises a series of contiguous columns. the height of which correspond to the frequency of observations that fall within the range of values covered by each column.
 
-How many values are between 0 and 10?  11 and 20?  etc.
+## Exercise
+The table represents the number of pigeon by its height in inches. 
+The height is from 14 to 20 inches which makes 6 columns 
+Fall represents the number of pigeon.
+
+* What is the total number of pigeon in the table?
+* How many pigeon are between 15 and 17 inches?
 
 <img src="images/pivot ar22.png">
 
