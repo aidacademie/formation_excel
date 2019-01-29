@@ -56,7 +56,7 @@ Mac Excel 2016
 
 * Fichier > Informations > options > complements > analysis Toolpak > atteindre > analysis tookpak, euro currency tools
 
-[Link to Toolpak info](http://www.excel-easy.com/data-analysis/analysis-toolpak.html)
+Help : [Link to Toolpak info](http://www.excel-easy.com/data-analysis/analysis-toolpak.html)
 
 Video: [Adding the analysis toolpak into your Excel on Windows](https://youtu.be/ZiwVY9DZ6RQ)
 
@@ -65,29 +65,35 @@ Video: [Adding the analysis toolpak into your Excel on Windows](https://youtu.be
 
 StatPus:
 
-<img src="assets/Histograms-83030.png">
+<img src="images/pivot ar13.png">
 
-<img src="assets/DescriptiveStats-7b7b7.png">
+<img src="images/pivot ar14.png">
 
 Run the app, then add it to Excel from its menu:
 
-<img src="assets/DescriptiveStats-2f0e1.png">
+<img src="images/pivot ar15.png">
 
 Relaunch Excel after choosing “Enable”. You should see these menus added on top...
 
-<img src="assets/DescriptiveStats-f9b48.png">
+<img src="images/pivot ar16.png">
 
 Import a file with numeric data, like Paris_Rainfall.csv.
 
 Pick Descriptive Statistics from the menu:
-<img src="assets/DescriptiveStats-4f645.png">
+<img src="images/pivot ar17.png">
 
 Add as many columns as you want to analyse (select on the left, click the arrow on the top).
 
-<img src="assets/DescriptiveStats-9974b.png">
+<img src="images/pivot ar18.png">
 
 Choose to include the histogram (option at the bottom).  It will computer results in a new spreadsheet for you.
 
 Example (red highlight is mine, indicates items of special interest).
 
-<img src="assets/DescriptiveStats-c41de.png">
+<img src="images/pivot ar19.png">
+
+
+## How to analyze the result
+
+<img src="images/DS.png">
+
