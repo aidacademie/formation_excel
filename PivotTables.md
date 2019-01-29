@@ -17,7 +17,7 @@ we can sort the data by those field.
  Pivot Input data is as on the right...
 “Wide” data is on the left.  Sometimes "wide" table data is the result of a Pivot table operation.
 
-<img src="week2_pic/2.png" width="600" height="410">  
+<img src="images/pivot ar4.png" width="600" height="410">  
                                                     “Tall” or “Long” data   
 
 To see more, see the section for [Tidy Data](TidyData.md).
