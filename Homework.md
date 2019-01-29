@@ -18,4 +18,5 @@
 ## Exercise 2 : Histogram from pivot table (Data set : school supplies)
 
 1> Make a pivot table to visualise sales in unit by region and item
+
 2> Create a bar chart from the pivot table
