@@ -86,8 +86,8 @@ Add as many columns as you want to analyse (select on the left, click the arrow 
 
 <img src="images/pivot ar18.png">
 
-Choose to include the histogram (option at the bottom).  It will computer results in a new spreadsheet for you.
-
+It will computer results in a new spreadsheet for you.
+For Mac, choose to include the histogram (option at the bottom).
 
 
 ## The result example 
