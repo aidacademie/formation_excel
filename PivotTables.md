@@ -53,7 +53,7 @@ For Mac, it should show the “Builder” open. The command to open it is on top
 If you have items in your builder, drag them “out” of the dialog to empty it (see Mac video). Goal is to start from empty:
 
 <img src="images/pivot ar 2.png" width="600" height="445">   
-<img src="images/pivot 3.png" width="600" height="445">   
+<img src="images/pivot 3.png" width="852" height="417">   
 
 
 5. How to change value > Average:
