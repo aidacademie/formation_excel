@@ -48,21 +48,25 @@ What would a tidy version of this look like?  We want a long table, with 3 colum
 
 ### Unpivot Tools
 
-#### [Google Sheets Add-in](https://stevebennett.me/2015/01/06/normalize-cross-tabs-for-tableau-a-google-sheets-script/)
-
-#### Windows Only Options
-
+#### Tool 1. [Google Sheets Add-in](https://stevebennett.me/2015/01/06/normalize-cross-tabs-for-tableau-a-google-sheets-script/)
+#### Tool 2. Windows Only Options
 * [Tableau Plugin-windows only](http://kb.tableau.com/articles/knowledgebase/addin-reshaping-data-excel?lang=en-us)
 * [PowerQuery add-on for Excel-Windows only](https://www.microsoft.com/en-us/download/details.aspx?id=39379)
 * Pivot Table Wizard - Windows (Seems to be disabled in latest version?)
 
-#### Using VBA Code (both platforms)
+#### Tool 3. Using VBA Code (both platforms)
 
 Make sure your Developer tab is in the ribbon.  Use Preferences or Options to turn it on if not.
-
 The macro code you need is in the data file "ReversePivotTable_macro.vba.docx" in data set folder
 
-Help : [Macro Source Link: Creating a Database Table from a Summary Table](http://spreadsheetpage.com/index.php/tip/creating_a_database_table_from_a_summary_table/)
+How to :
+
+Step 1 : VBA setting 
+* Option Powerpoint>Popular>Show Developer tab in ribbon
+* Micro Security in Developer tab>Enable all macros
+
+Step 2 : Unpivoting
+* Visual Basic>Sheet 1>Input codes (using the word file : Macro Reserve Pivot Table)>Macro in Developer tab>select a cell to execute the result>save the result in the new sheet
 
 Demos:
 * [Video of Running the Macro on Mac Excel](https://youtu.be/dpnIwhmmbLA)
