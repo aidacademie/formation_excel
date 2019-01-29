@@ -62,7 +62,7 @@ What would a tidy version of this look like?  We want a long table, with 3 colum
 
 Make sure your Developer tab is in the ribbon.  Use Preferences or Options to turn it on if not.
 
-The macro code you need is in the data file "ReversePivotTable_macro.vba.txt."
+The macro code you need is in the data file "ReversePivotTable_macro.vba.docx" in data set folder
 
 [Macro Source Link: Creating a Database Table from a Summary Table](http://spreadsheetpage.com/index.php/tip/creating_a_database_table_from_a_summary_table/)
 
