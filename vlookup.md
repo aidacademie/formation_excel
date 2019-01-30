@@ -23,6 +23,11 @@ Optional. Enter FALSE to find an exact match. Enter TRUE to find an approximate 
 Source : https://www.techonthenet.com/excel/formulas/vlookup.php
 
 
-## VLOOKUP EXERCISE
+## VLOOKUP EXERCISE 1 (data set : Runners)
+
+Let's imagine that your manager sent you a file Runners, and he asked you to make a new table.
+
+<img src="assets/VLOOKUP_HW-7a7c5.png">
+
 
 
