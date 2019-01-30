@@ -2,7 +2,7 @@
 * VLOOKUP function works only with data organised into columns. 
 * VLOOKUP function performs a vertical lookup by searching for a value in the first column of a table and returning the value in the same row in the index_number position
 
-### VLOOKUP is THE function globally used in service sector (finance, sales, marketing, RH etc) 
+##### VLOOKUP is THE function globally used in service sector (finance, sales, marketing, RH etc) 
 
 ## Function = VLOOKUP( value, table, index_number, [approximate_match] )
 * value 
