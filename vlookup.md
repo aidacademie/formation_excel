@@ -23,3 +23,6 @@ Optional. Enter FALSE to find an exact match. Enter TRUE to find an approximate 
 Source : https://www.techonthenet.com/excel/formulas/vlookup.php
 
 
+## VLOOKUP EXERCISE
+
+
