@@ -9,3 +9,5 @@
 ### Section: [Histograms](Histograms.md)
 
 ### Section: [Homework](Homework.md)
+
+### Section: [VLOOKUP](vlookup.md)
