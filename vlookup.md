@@ -18,3 +18,5 @@ The column number in table from which the matching value must be returned. The f
 * approximate_match
 
 Optional. Enter FALSE to find an exact match. Enter TRUE to find an approximate match. If this parameter is omitted, TRUE is the default.
+
+Source : https://www.techonthenet.com/excel/formulas/vlookup.php
