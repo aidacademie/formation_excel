@@ -29,6 +29,9 @@ Let's imagine that your manager sent you an original file, called "Runners", and
 
 <img src="images/vlookup1.png"> 
 
+
+
 Now you need to work with :zap: VLOOKUP FUNCTION :zap:
+
 
 <img src="images/vlookup2.png"> 
