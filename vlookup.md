@@ -25,9 +25,10 @@ Source : https://www.techonthenet.com/excel/formulas/vlookup.php
 
 ## VLOOKUP EXERCISE 1 (data set : Runners)
 
-Let's imagine that your manager sent you a file Runners, and he asked you to make a new table.
+Let's imagine that your manager sent you an original file, called "Runners", and he asked you to organize the table differently.
 
-<img src="assets/VLOOKUP_HW-7a7c5.png">
+<img src="images/vlookup1.png"> 
 
+Now you need to work with :zap: VLOOKUP FUNCTION :zap:
 
-
+<img src="images/vlookup2.png"> 
