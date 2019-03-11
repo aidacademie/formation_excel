@@ -8,7 +8,7 @@
 
 ### Section: [Histograms](Histograms.md)
 
-### Section: [Homework](Homework.md)
+### Section: [Homework 1](Homework1.md)
 
 ### Section: [VLOOKUP](vlookup.md)
 
