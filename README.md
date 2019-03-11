@@ -11,3 +11,5 @@
 ### Section: [Homework](Homework.md)
 
 ### Section: [VLOOKUP](vlookup.md)
+
+### Section: [ChartDesign](ChartDesign.md)
