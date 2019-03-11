@@ -15,3 +15,5 @@
 ### Section: [ChartDesign](ChartDesign.md)
 
 ### Section: [ExcelChart](ExcelChart.md)
+
+### Section: [Homework 2](Homework2.md)
