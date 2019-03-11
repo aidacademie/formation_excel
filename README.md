@@ -13,3 +13,5 @@
 ### Section: [VLOOKUP](vlookup.md)
 
 ### Section: [ChartDesign](ChartDesign.md)
+
+### Section: [ExcelChart](ExcelChart.md)
