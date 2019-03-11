@@ -1,4 +1,4 @@
-# Formation Excel : Descriptive Stats, Long Data, Pivot Tables & Histograms
+# Formation Excel : 
 
 ### Section: [Descriptive Statistics](DescriptiveStats.md)
 
