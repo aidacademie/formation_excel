@@ -15,8 +15,7 @@
 #### PUT THE ANSWERS WITH YOUR PIVOT TABLE IN A NEW SHEET AND NAME IT (US GOLD)
 
 2> Table 2 : Visualizing the number of "French" gold medalist by sport in 2008
-
-    - Which sport did French athlete win the most gold medal?
+   - Which sport did French athlete win the most gold medal?
 
 #### PUT THE ANSWERS WITH YOUR PIVOT TABLE IN A NEW SHEET AND NAME IT (FRENCH GOLD)
 
