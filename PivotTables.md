@@ -19,14 +19,14 @@ To see more, see the section for [Tidy Data](TidyData.md).
 
 Video Demos:
 
-* [Mac Excel English Pivot, Count Values](https://youtu.be/fxP81RaPBFQ)
-* [Windows Excel French Pivot](https://youtu.be/fsre1PJYDM4)
+[Mac Excel English Pivot, Count Values](https://youtu.be/fxP81RaPBFQ)
+[Windows Excel French Pivot](https://youtu.be/fsre1PJYDM4)
 
-Step 1. Select your data.(Data set: : FT workers NorthCentral US 1999). 
-Step 2. Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
-Step 3. *On Windows,* check the “Insert” Ribbon Tab.
+* Step 1. Select your data.(Data set: : FT workers NorthCentral US 1999). 
+* Step 2. Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
+* Step 3. *On Windows,* check the “Insert” Ribbon Tab.
 	*On Mac,* the “Data” Ribbon Tab.  
-Step 4. Also look at the menus (check Insert and Data menus).  
+* Step 4. Also look at the menus (check Insert and Data menus).  
 
 You should get the dialog:  
 <img src="images/pivot 1.png" width="600" height="461">   
@@ -34,7 +34,7 @@ You should get the dialog:
  *Note: Every column needs a label for this to work!*
 
 
-Step 4. Click OK (after making sure it shows your selection.)  
+* Step 5. Click OK (after making sure it shows your selection.)  
 
 On Mac, it makes a “default” pivot table.   On Windows, you need to select the option on the bottom of the suggestions dialog for "Table Vide."
 
@@ -49,20 +49,20 @@ If you have items in your builder, drag them “out” of the dialog to empty it
 <img src="images/pivot 3.png" width="852" height="417">   
 
 
-Step 5. How to change value > Average:
+* Step 6. How to change value > Average:
 
 <img src="images/pivot 4.png" width="600" height="559">   
 
 
-Step 6. Grouping : let's group the education years by 5
+* Step 7. Grouping : let's group the education years by 5
 
 
 <img src="images/pivot 5.png" width="585" height="490">
 
-Step 7. Labeling 
-* Group 1 > 0-10
-* Group 2 > 11-15
-* Group 3 > 16-20
+* Step 8. Labeling 
+ Group 1 > 0-10
+ Group 2 > 11-15
+ Group 3 > 16-20
 
 <img src="images/pivot 6.png" width="816" height="170">
 
@@ -72,8 +72,8 @@ See the result below
 
 ### Changing sort order 
 
-* On Windows, right click inside a cell in Values. Choose sort (Trier).
-* On Mac, click the Sort button in the Data tab while your mouse is in the column.
+* On Windows, right click inside a cell in "Values". Choose "Sort" (Trier).
+* On Mac, click the "Sort" button in the Data tab while your mouse is in the column.
 
 ### Example : Data set (chi2.csv)
  Let’s do that with chi2.csv, our Chicago dataset.
