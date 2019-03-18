@@ -1,5 +1,5 @@
 # What is Tidy/Long Data?
-“Long data”, often called Tidy Data/Normalized data/Cleaned Data/Unpivoted is generally used to create a pivot table. Long data is that the number of column is more than the number of raw. Wide data is sometimes used (depends on the operation). 
+“Long data”, often called Tidy Data/Normalized data/Cleaned Data/Unpivoted is generally used to create a pivot table. Long data is that the number of raw is more than the number of column. Wide data is sometimes used (depends on the operation). 
 
 
 # Tidy Data (Long Form)
