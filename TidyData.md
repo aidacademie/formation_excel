@@ -4,15 +4,9 @@
 
 # Tidy Data (Long Form)
 
-Origin of the term “Tidy Data” is probably Hadley Wickham: [Tidy Data Paper](http:// vita.had.co.nz/papers/tidy-data.pdf)
-
-* Also sometimes known as “tall” or “long” or “normalized” instead of
-“wide” data or tabular data
-* Tableau, when we get to it, also requires tidy LONG (unpivoted) data
-* Pivot tables require tidy, long data
+Origin of the term “Tidy Data” is probably Hadley Wickham: [Tidy Data Paper] (http:// vita.had.co.nz/papers/tidy-data.pdf)
 
 * Setting up source data for pivots in Excel: https:// www.excelcampus.com/modeling/structure-pivot-table-source-data/
-
 
 <img src="images/pivot ar20.png">
 
