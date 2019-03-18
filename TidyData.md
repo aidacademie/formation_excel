@@ -10,8 +10,6 @@ Origin of the term “Tidy Data” is probably Hadley Wickham: [Tidy Data Paper]
 
 <img src="images/pivot ar20.png">
 
-*from excelcampus article above.*
-
 ## Exercise
 
 You will work through tidying the data in the file "survey_data_spreadsheet_messy.xlsx."  Follow the principles in these notes on formatting data in a tidy way:
