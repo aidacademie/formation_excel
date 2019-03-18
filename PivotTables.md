@@ -1,15 +1,14 @@
 ## What is pivot table ?
 Summerizing selected data from raw data 
 
-* What are the four fields of pivot table?
+* What are the four fields of pivot table? report filter / column labels / row labels / values
 
-fields:  report filter / column labels / row labels / values
 we can sort the data by those field.
 
-### Pivot Tables like Tall, Raw Data   
+## Pivot Tables : crossed data by column and row
 
- Pivot Input data is as on the right...
-“Wide” data is on the left.  Sometimes "wide" table data is the result of a Pivot table operation.
+ Pivot Input data is as on the right... “Wide” data is on the left.  
+Sometimes "wide" table data is the result of a Pivot table operation.
 
 <img src="images/pivot ar4.png" width="600" height="410">  
                                                     “Tall” or “Long” data   
@@ -23,10 +22,11 @@ Video Demos:
 * [Mac Excel English Pivot, Count Values](https://youtu.be/fxP81RaPBFQ)
 * [Windows Excel French Pivot](https://youtu.be/fsre1PJYDM4)
 
-Step 1. Select your data.(Data set: : FT workers NorthCentral US 1999). Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
-Step 2. *On Windows,* check the “Insert” Ribbon Tab.
+Step 1. Select your data.(Data set: : FT workers NorthCentral US 1999). 
+Step 2. Find and Click the PivotTable (“Table Croisée”) on the ribbon toolbar or menu.  
+Step 3. *On Windows,* check the “Insert” Ribbon Tab.
 	*On Mac,* the “Data” Ribbon Tab.  
-Step 3. Also look at the menus (check Insert and Data menus).  
+Step 4. Also look at the menus (check Insert and Data menus).  
 
 You should get the dialog:  
 <img src="images/pivot 1.png" width="600" height="461">   
