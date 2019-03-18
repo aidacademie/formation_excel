@@ -10,9 +10,9 @@ Origin of the term “Tidy Data” is probably Hadley Wickham: [Tidy Data Paper]
 
 <img src="images/pivot ar20.png">
 
-## Exercise
+### Exercise 1 : Formatting data (Dataset : survey_data_spreadsheet_messy.xlsx)
 
-You will work through tidying the data in the file "survey_data_spreadsheet_messy.xlsx."  Follow the principles in these notes on formatting data in a tidy way:
+You will work through tidying the data in the file "survey_data_spreadsheet_messy.xlsx."  Follow the instructions in these notes on formatting data in a tidy way:
 
 [Data Carpentry Lesson 1 on Spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/01-format-data/)
 
@@ -30,7 +30,7 @@ Your goal is a single table for all the data.
  >
  > cells = data (the values of the variables in the column names
 
-## Unpivoting Pivoted Table Data (Dataset : Paris_Rainfall.csv)
+### Exercise 2 : Unpivoting Pivoted Table Data (Dataset : Paris_Rainfall.csv)
 
 Sometimes you are given data that is not in tidy format and you have to "fix" it.  There are some tools that will help you unpivot data, but it can be tough.
 
