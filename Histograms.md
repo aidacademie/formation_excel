@@ -1,6 +1,6 @@
 # Histograms
 
-Histogram is a graphical representation of data that comprises a series of contiguous columns. the height of which correspond to the frequency of observations that fall within the range of values covered by each column.
+Histogram is a graphical representation of data that comprises a series of contiguous columns. *The height of which correspond to the frequency of observations that fall within the range of values covered by each column.*
 
 ## Exercise
 The table represents the number of pigeon by its height in inches. 
